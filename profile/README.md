@@ -2,7 +2,7 @@
 
 [![Website](https://img.shields.io/badge/Website-Agência%20Knup-blue)](https://www.agenciaknup.com.br/)
 [![Instagram](https://img.shields.io/badge/Instagram-Agência%20Knup-orange)](https://www.instagram.com/agenciaknup/)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Agência%20Knup-brightgreen)](https://wa.me/+5543998551501)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Agência%20Knup-brightgreen)](https://wa.me/message/UD47HU6U7N3LF1)
 [![Email](https://img.shields.io/badge/Email-Contato%20via%20Email-yellow)](mailto:contato@agenciaknup.com.br)
 
 # Bem-vindo à Agência Knup! 👋
