@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="Logotipo-(branco).png" alt="Agência Knup" width="400" height="400">
+</p>
+
 ## Hi there 👋
 
 <!--
