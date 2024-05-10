@@ -1,9 +1,9 @@
 <img src="Logotipo-(branco).png" alt="Agência Knup" width="400" height="400">
 
-[![Website](https://img.shields.io/badge/Website-Agência%20Knup-blue)](https://www.agenciaknup.com.br/)
-[![Instagram](https://img.shields.io/badge/Instagram-Agência%20Knup-orange)](https://www.instagram.com/agenciaknup/)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Agência%20Knup-brightgreen)](https://wa.me/message/UD47HU6U7N3LF1)
-[![Email](https://img.shields.io/badge/Email-Contato%20via%20Email-yellow)](mailto:contato@agenciaknup.com.br)
+[![Website](https://img.shields.io/badge/Website-Agência%20Knup-blue)](https://www.agenciaknup.com.br/){:target="_blank"}
+[![Instagram](https://img.shields.io/badge/Instagram-Agência%20Knup-orange)](https://www.instagram.com/agenciaknup/){:target="_blank"}
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Agência%20Knup-brightgreen)](https://wa.me/message/UD47HU6U7N3LF1){:target="_blank"}
+[![Email](https://img.shields.io/badge/Email-Contato%20via%20Email-yellow)](mailto:contato@agenciaknup.com.br){:target="_blank"}
 
 # Bem-vindo à Agência Knup! 👋
 
@@ -36,9 +36,9 @@ Para saber mais sobre nossos serviços e projetos anteriores, visite [nosso site
 
 Estamos sempre disponíveis para ajudar. Você pode entrar em contato conosco através de:
 
-[![Website](https://img.shields.io/badge/Website-Agência%20Knup-blue)](https://www.agenciaknup.com.br/)
-[![Instagram](https://img.shields.io/badge/Instagram-Agência%20Knup-orange)](https://www.instagram.com/agenciaknup/)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Agência%20Knup-brightgreen)](https://wa.me/seu_numerodetelefone_aqui)
-[![Email](https://img.shields.io/badge/Email-Contato%20via%20Email-yellow)](mailto:seu_email@aqui.com)
+[![Website](https://img.shields.io/badge/Website-Agência%20Knup-blue)](https://www.agenciaknup.com.br/){:target="_blank"}
+[![Instagram](https://img.shields.io/badge/Instagram-Agência%20Knup-orange)](https://www.instagram.com/agenciaknup/){:target="_blank"}
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Agência%20Knup-brightgreen)](https://wa.me/message/UD47HU6U7N3LF1){:target="_blank"}
+[![Email](https://img.shields.io/badge/Email-Contato%20via%20Email-yellow)](mailto:contato@agenciaknup.com.br){:target="_blank"}
 
 ---
