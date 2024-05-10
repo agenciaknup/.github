@@ -1,16 +1,44 @@
-<p align="center">
-  <img src="Logotipo-(branco).png" alt="Agência Knup" width="400" height="400">
-</p>
+<img src="Logotipo-(branco).png" alt="Agência Knup" width="400" height="400">
 
-## Hi there 👋
+[![Website](https://img.shields.io/badge/Website-Agência%20Knup-blue)](https://www.agenciaknup.com.br/)
+[![Instagram](https://img.shields.io/badge/Instagram-Agência%20Knup-orange)](https://www.instagram.com/agenciaknup/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Agência%20Knup-brightgreen)](https://wa.me/+5543998551501)
+[![Email](https://img.shields.io/badge/Email-Contato%20via%20Email-yellow)](mailto:contato@agenciaknup.com.br)
 
-<!--
+# Bem-vindo à Agência Knup! 👋
 
-**Here are some ideas to get you started:**
+Somos uma empresa dedicada a oferecer serviços nas áreas de marketing, comunicação e tecnologia.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## Sobre nós
+
+Na Agência Knup, estamos comprometidos em fornecer soluções eficazes para empresas de ticket médio para alto, especialmente aquelas em setores mais sérios, como saúde, jurídico e afins.
+
+## Nossos serviços
+
+Oferecemos uma ampla gama de serviços, incluindo:
+
+- Desenvolvimento de websites e aplicativos
+- Identidade visual e branding
+- Gestão de mídias sociais
+- Traduções
+- Produção textual
+- E muitos outros serviços personalizados para atender às necessidades específicas de nossos clientes.
+
+## Como contribuir
+
+Se você está interessado em contribuir ou colaborar conosco, entre em contato através de [nosso site](https://www.agenciaknup.com.br/) para discutir possíveis oportunidades.
+
+## Recursos úteis
+
+Para saber mais sobre nossos serviços e projetos anteriores, visite [nosso site](https://www.agenciaknup.com.br/). Lá você encontrará informações detalhadas sobre o que podemos oferecer.
+
+## Entre em contato
+
+Estamos sempre disponíveis para ajudar. Você pode entrar em contato conosco através de:
+
+[![Website](https://img.shields.io/badge/Website-Agência%20Knup-blue)](https://www.agenciaknup.com.br/)
+[![Instagram](https://img.shields.io/badge/Instagram-Agência%20Knup-orange)](https://www.instagram.com/agenciaknup/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Agência%20Knup-brightgreen)](https://wa.me/seu_numerodetelefone_aqui)
+[![Email](https://img.shields.io/badge/Email-Contato%20via%20Email-yellow)](mailto:seu_email@aqui.com)
+
+---
